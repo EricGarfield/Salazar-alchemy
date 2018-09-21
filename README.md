@@ -9,3 +9,6 @@ Contrairement aux alchimistes qui veulent pratiquer l'or réel, l'alchimie doit 
 In the game, the alchemist is conducting an experiment in his lab. We need to help him eliminate three or more identical element blocks by moving the element squares. 
 
 The tasks for each level are Unlike the alchemists who want to practice real gold, alchemy needs to collect 13 elements. In the game, players need to slowly synthesize 13 elements from the beginning of the small elements, once you find 13 elements, you can synthesize real gold. Follow the alchemist together to find out the gold elements!
+
+
+Email: Eric.cair111@gmail.com
